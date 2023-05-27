@@ -4,4 +4,6 @@ Major : Computer Science
 
 Course : Introduction to Algorithms
 
+Semester : Spring 2023
+
 Instructor : Qin Lin
